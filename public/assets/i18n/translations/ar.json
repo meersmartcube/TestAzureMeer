@@ -1,0 +1,13 @@
+{
+  "homeLabel": "الصفحة الرئيسية",
+  "businessOwnerLabel" : "صاحب العمل",  
+  "inspectorLabel" : "مفتش",  
+  "complaintLabel" : "شكوى",
+  "scheduleLabel" : "جدولي",
+  "profileLabel" : "ملفي",     
+  "activityLabel" : "سجل النشاطات",    
+  "logoutLabel" : "تسجيل خروج",  
+
+    "hello.label": "مرحبا",
+    "thankyou.label": "شكرا لك"
+}

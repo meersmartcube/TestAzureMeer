@@ -1,0 +1,14 @@
+{
+  "homeLabel": "Home",
+  "businessOwnerLabel" : "Business Owner",  
+  "inspectorLabel" : "Inspector",  
+  "complaintLabel" : "Complaint",
+  "scheduleLabel" : "My Schedule",
+  "profileLabel" : "My Profile",    
+  "activityLabel" : "Activity Log",    
+  "logoutLabel" : "Logout",  
+  "loginLabel" : "Login", 
+
+    "hello.label": "Hello",
+    "thankyou.label": "Thank you"
+}
